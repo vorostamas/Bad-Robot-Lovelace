@@ -1,0 +1,2 @@
+
+![Air purifier card](air_purifier_card.png)
